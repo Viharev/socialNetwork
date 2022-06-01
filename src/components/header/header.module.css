@@ -9,7 +9,7 @@
 
 .logo{
     margin-left: 25px;
-    background-image: url('./logo.svg') ;
+    background-image: url('../../logo.svg') ;
     background-size: cover;
     background-position: center;
     width: 75px;

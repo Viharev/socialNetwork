@@ -1,9 +1,9 @@
-import classes from'./../header.module.css';
+import classes from'./header.module.css';
 
 const h = {
-  'header': 'header_header__JPpAt',
-  'logo': 'header_logo__HMQmH',
-  'rightBarHeader' : 'header_rightBarHeader__dNHba'
+  'header': 'header_header__z8ezc',
+  'logo': 'header_logo__wLirW',
+  'rightBarHeader' : 'header_rightBarHeader__NjmYe'
 }
 
 

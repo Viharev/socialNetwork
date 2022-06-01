@@ -1,4 +1,4 @@
-import m from './../main.module.css'
+import m from './main/main.module.css'
 
 
 
