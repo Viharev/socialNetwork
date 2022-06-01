@@ -1,0 +1,56 @@
+.wrapBar{
+    margin-top: 10px;
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+}
+.sideBar{
+    width: 30%;
+    /* background: #000; */
+    margin-right: 10px;
+}
+.content{
+    width: 70%;
+    background: rgb(44, 44, 44);
+}
+
+.bgTop{
+    background-image: url('https://i.ytimg.com/vi/OOrIrSzSWFk/maxresdefault.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+}
+.info{
+    margin-top: 10px;
+    display: flex;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+
+}
+.photo{
+    background-image: url('https://wallbox.ru/wallpapers/main/201316/f155950d9fbb3a4.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 150px;
+    height: 200px;
+}
+
+.list h2{
+    padding-left: 20px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.list ul{
+    padding-left: 20px;
+    list-style-type: none ;
+}
+.list ul li{
+    color: #fff;
+}
+.inputContent{
+    display: flex;
+    flex-direction: column;
+}
+.inputContent input{
+    height: 30px;
+}

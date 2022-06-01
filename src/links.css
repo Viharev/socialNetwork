@@ -1,0 +1,15 @@
+.links{
+    padding-top: 25px;
+    display: flex;
+    flex-direction: column;
+}
+.links a{
+    padding: 4px;
+    padding-left: 15px;
+    color: #fff;
+    text-align-last: left;
+}
+.links a:hover{
+    color: aqua;
+    cursor: pointer;
+}
