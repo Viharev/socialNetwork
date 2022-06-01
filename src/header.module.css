@@ -8,11 +8,12 @@
 
 
 .logo{
+    margin-left: 25px;
     background-image: url('./logo.svg') ;
     background-size: cover;
     background-position: center;
-    width: 15%;
-    height: 50px;
+    width: 75px;
+    height: 75px;
 }
 
 .rightBarHeader{

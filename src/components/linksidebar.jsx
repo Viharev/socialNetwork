@@ -1,3 +1,5 @@
+import './../links.css';
+
 
 const LinkSideBar = () => {
     return (
